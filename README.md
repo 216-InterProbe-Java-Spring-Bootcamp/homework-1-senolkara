@@ -1,2 +1,2 @@
-# first-homework
-216-InterProbe-Java-Spring-Bootcamp First Homework
+# Homework-1
+### Kodlamalar hmwrk1 branch içerisinde bulunmaktadır...
